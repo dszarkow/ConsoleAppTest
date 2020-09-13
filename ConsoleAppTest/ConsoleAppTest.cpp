@@ -12,4 +12,6 @@ int main()
     std::cout << "Hello GitHub World!\n";
 
 	std::cout << "September 13, 2020\n";
+
+	std::cout << "Bloomington, IN\n";
 }
